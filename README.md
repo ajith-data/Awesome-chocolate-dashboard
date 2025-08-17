@@ -3,8 +3,6 @@ An interactive Excel dashboard analyzing chocolate sales by region, customer seg
 
 
 
-🍫 Awesome Chocolate Dashboard
-
 📌 Project Overview
 
 This project presents an interactive Excel dashboard that analyzes chocolate sales data. The dashboard provides insights into sales performance by region, customer segments, and time periods, helping in data-driven decision-making.
